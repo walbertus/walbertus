@@ -9,14 +9,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [simulot/immich-go](https://github.com/simulot/immich-go) ([v0.30.0](https://github.com/simulot/immich-go/releases/tag/v0.30.0), 2 days ago) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives.
+- [simulot/immich-go](https://github.com/simulot/immich-go) ([v0.30.0](https://github.com/simulot/immich-go/releases/tag/v0.30.0), 3 days ago) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) ([v1.262.1](https://github.com/aliyun/terraform-provider-alicloud/releases/tag/v1.262.1), 1 week ago) - Terraform AliCloud provider
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) ([v1.8.0](https://github.com/PagerDuty/go-pagerduty/releases/tag/v1.8.0), 2 years ago) - go client library for PagerDuty v2 API
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add jellysweep](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/367) on [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) (today)
-- [feat: update UI to show estimated deletion date instead of default](https://github.com/jon4hz/jellysweep/pull/205) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
+- [feat: add jellysweep](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/367) on [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) (1 day ago)
+- [feat: update UI to show estimated deletion date instead of default](https://github.com/jon4hz/jellysweep/pull/205) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (5 days ago)
 - [feat: add incident analytics by escalation policy](https://github.com/PagerDuty/go-pagerduty/pull/557) on [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) (5 months ago)
 - [feat: add analytics responder](https://github.com/PagerDuty/go-pagerduty/pull/555) on [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) (5 months ago)
 - [fix: add missing flags on upload from google photos](https://github.com/simulot/immich-go/pull/761) on [simulot/immich-go](https://github.com/simulot/immich-go) (8 months ago)
