@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) -  (today)
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API (5 months ago)
 - [walbertus/learning](https://github.com/walbertus/learning) -  (7 months ago)
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (8 months ago)
@@ -9,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) ([v1.263.0](https://github.com/aliyun/terraform-provider-alicloud/releases/tag/v1.263.0), today) - Terraform AliCloud provider
 - [simulot/immich-go](https://github.com/simulot/immich-go) ([v0.30.0](https://github.com/simulot/immich-go/releases/tag/v0.30.0), 5 days ago) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives.
-- [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) ([v1.262.1](https://github.com/aliyun/terraform-provider-alicloud/releases/tag/v1.262.1), 2 weeks ago) - Terraform AliCloud provider
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) ([v1.8.0](https://github.com/PagerDuty/go-pagerduty/releases/tag/v1.8.0), 2 years ago) - go client library for PagerDuty v2 API
 
 #### 🔨 My recent Pull Requests
