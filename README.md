@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) -  (1 day ago)
+- [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) -  (today)
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API (5 months ago)
 - [walbertus/learning](https://github.com/walbertus/learning) -  (7 months ago)
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (9 months ago)
