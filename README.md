@@ -16,7 +16,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore(evaluator): update naming in jupyter notebook](https://github.com/gopaytech/rag-pipeline-poc/pull/1) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (today)
+- [feat(evaluator): allow using ollama model alongside model garden](https://github.com/gopaytech/rag-pipeline-poc/pull/1) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (today)
 - [feat: add jellysweep](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/367) on [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) (6 days ago)
 - [feat: update UI to show estimated deletion date instead of default](https://github.com/jon4hz/jellysweep/pull/205) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [feat: add incident analytics by escalation policy](https://github.com/PagerDuty/go-pagerduty/pull/557) on [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) (5 months ago)
