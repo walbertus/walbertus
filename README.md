@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) -  (1 day ago)
 - [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) -  (3 days ago)
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API (5 months ago)
 - [walbertus/learning](https://github.com/walbertus/learning) -  (7 months ago)
