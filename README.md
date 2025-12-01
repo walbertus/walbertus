@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (4 days ago)
-- [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) - Personal learning project about creating ai agent (5 days ago)
-- [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) -  (6 days ago)
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (5 days ago)
+- [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) - Personal learning project about creating ai agent (6 days ago)
+- [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) -  (1 week ago)
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API (5 months ago)
 - [walbertus/learning](https://github.com/walbertus/learning) -  (7 months ago)
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (9 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(evaluator): allow using ollama model alongside model garden](https://github.com/gopaytech/rag-pipeline-poc/pull/1) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (6 days ago)
+- [feat(evaluator): allow using ollama model alongside model garden](https://github.com/gopaytech/rag-pipeline-poc/pull/1) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (1 week ago)
 - [feat: add jellysweep](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/367) on [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) (1 week ago)
 - [feat: update UI to show estimated deletion date instead of default](https://github.com/jon4hz/jellysweep/pull/205) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
 - [feat: add incident analytics by escalation policy](https://github.com/PagerDuty/go-pagerduty/pull/557) on [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) (5 months ago)
