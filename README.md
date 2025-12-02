@@ -18,6 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add MCP knowledge server](https://github.com/gopaytech/rag-pipeline-poc/pull/3) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (today)
 - [feat(evaluator): allow using ollama model alongside model garden](https://github.com/gopaytech/rag-pipeline-poc/pull/1) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (1 week ago)
 - [feat: add jellysweep](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/367) on [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) (2 weeks ago)
 - [feat: update UI to show estimated deletion date instead of default](https://github.com/jon4hz/jellysweep/pull/205) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
@@ -27,7 +28,6 @@
 - [docs: specify security group for alicloud_ecs_network_interface](https://github.com/aliyun/terraform-provider-alicloud/pull/8049) on [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) (11 months ago)
 - [merge changes on upstream](https://github.com/gopaytech/wal-g-prometheus-exporter/pull/3) on [gopaytech/wal-g-prometheus-exporter](https://github.com/gopaytech/wal-g-prometheus-exporter) (11 months ago)
 - [fix: add primary role identifier](https://github.com/gopaytech/patroni_exporter/pull/4) on [gopaytech/patroni_exporter](https://github.com/gopaytech/patroni_exporter) (1 year ago)
-- [docs: add consul.agent-only documentation](https://github.com/prometheus/consul_exporter/pull/301) on [prometheus/consul_exporter](https://github.com/prometheus/consul_exporter) (2 years ago)
 
 #### 📫 How to reach me
 
