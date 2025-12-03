@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) -  (1 day ago)
+- [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) - POC Repository for implementing RAG pipeline for Goto Financial Infra (1 day ago)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (1 week ago)
 - [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) - Personal learning project about creating ai agent (1 week ago)
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API (5 months ago)
