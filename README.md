@@ -18,6 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add lark integration for docs and wiki](https://github.com/gopaytech/rag-pipeline-poc/pull/4) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (today)
 - [feat: add MCP knowledge server](https://github.com/gopaytech/rag-pipeline-poc/pull/3) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (2 days ago)
 - [feat(evaluator): allow using ollama model alongside model garden](https://github.com/gopaytech/rag-pipeline-poc/pull/1) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (1 week ago)
 - [feat: add jellysweep](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/367) on [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) (2 weeks ago)
@@ -27,7 +28,6 @@
 - [fix: add missing flags on upload from google photos](https://github.com/simulot/immich-go/pull/761) on [simulot/immich-go](https://github.com/simulot/immich-go) (9 months ago)
 - [docs: specify security group for alicloud_ecs_network_interface](https://github.com/aliyun/terraform-provider-alicloud/pull/8049) on [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) (11 months ago)
 - [merge changes on upstream](https://github.com/gopaytech/wal-g-prometheus-exporter/pull/3) on [gopaytech/wal-g-prometheus-exporter](https://github.com/gopaytech/wal-g-prometheus-exporter) (11 months ago)
-- [fix: add primary role identifier](https://github.com/gopaytech/patroni_exporter/pull/4) on [gopaytech/patroni_exporter](https://github.com/gopaytech/patroni_exporter) (1 year ago)
 
 #### 📫 How to reach me
 
