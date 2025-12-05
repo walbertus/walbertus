@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) - POC Repository for implementing RAG pipeline for Goto Financial Infra (1 day ago)
+- [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) - POC Repository for implementing RAG pipeline for Goto Financial Infra (today)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (1 week ago)
 - [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) - Personal learning project about creating ai agent (1 week ago)
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API (5 months ago)
@@ -18,6 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: get the markdown content instead of raw for lark](https://github.com/gopaytech/rag-pipeline-poc/pull/5) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (today)
 - [feat: add lark integration for docs, wiki and space](https://github.com/gopaytech/rag-pipeline-poc/pull/4) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (1 day ago)
 - [feat: add MCP knowledge server](https://github.com/gopaytech/rag-pipeline-poc/pull/3) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (3 days ago)
 - [feat(evaluator): allow using ollama model alongside model garden](https://github.com/gopaytech/rag-pipeline-poc/pull/1) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (1 week ago)
@@ -27,7 +28,6 @@
 - [feat: add analytics responder](https://github.com/PagerDuty/go-pagerduty/pull/555) on [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) (5 months ago)
 - [fix: add missing flags on upload from google photos](https://github.com/simulot/immich-go/pull/761) on [simulot/immich-go](https://github.com/simulot/immich-go) (9 months ago)
 - [docs: specify security group for alicloud_ecs_network_interface](https://github.com/aliyun/terraform-provider-alicloud/pull/8049) on [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) (11 months ago)
-- [merge changes on upstream](https://github.com/gopaytech/wal-g-prometheus-exporter/pull/3) on [gopaytech/wal-g-prometheus-exporter](https://github.com/gopaytech/wal-g-prometheus-exporter) (11 months ago)
 
 #### 📫 How to reach me
 
