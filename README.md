@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) ([v1.264.0](https://github.com/aliyun/terraform-provider-alicloud/releases/tag/v1.264.0), 1 week ago) - Terraform AliCloud provider
+- [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) ([v1.265.0](https://github.com/aliyun/terraform-provider-alicloud/releases/tag/v1.265.0), today) - Terraform AliCloud provider
 - [simulot/immich-go](https://github.com/simulot/immich-go) ([v0.31.0](https://github.com/simulot/immich-go/releases/tag/v0.31.0), 2 weeks ago) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) ([v1.8.0](https://github.com/PagerDuty/go-pagerduty/releases/tag/v1.8.0), 2 years ago) - go client library for PagerDuty v2 API
 
