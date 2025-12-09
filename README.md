@@ -18,6 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add proposition tool](https://github.com/gopaytech/rag-pipeline-poc/pull/6) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (today)
 - [fix: get the markdown content instead of raw for lark](https://github.com/gopaytech/rag-pipeline-poc/pull/5) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (4 days ago)
 - [feat: add lark integration for docs, wiki and space](https://github.com/gopaytech/rag-pipeline-poc/pull/4) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (5 days ago)
 - [feat: add MCP knowledge server](https://github.com/gopaytech/rag-pipeline-poc/pull/3) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (1 week ago)
@@ -27,7 +28,6 @@
 - [feat: add incident analytics by escalation policy](https://github.com/PagerDuty/go-pagerduty/pull/557) on [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) (5 months ago)
 - [feat: add analytics responder](https://github.com/PagerDuty/go-pagerduty/pull/555) on [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) (5 months ago)
 - [fix: add missing flags on upload from google photos](https://github.com/simulot/immich-go/pull/761) on [simulot/immich-go](https://github.com/simulot/immich-go) (9 months ago)
-- [docs: specify security group for alicloud_ecs_network_interface](https://github.com/aliyun/terraform-provider-alicloud/pull/8049) on [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) (11 months ago)
 
 #### 📫 How to reach me
 
