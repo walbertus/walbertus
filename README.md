@@ -8,12 +8,12 @@
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API (6 months ago)
 - [walbertus/learning](https://github.com/walbertus/learning) -  (8 months ago)
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (9 months ago)
-- [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) - Terraform AliCloud provider (11 months ago)
+- [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) - Terraform AliCloud provider (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) ([v1.266.0](https://github.com/aliyun/terraform-provider-alicloud/releases/tag/v1.266.0), 1 day ago) - Terraform AliCloud provider
-- [simulot/immich-go](https://github.com/simulot/immich-go) ([v0.31.0](https://github.com/simulot/immich-go/releases/tag/v0.31.0), 3 weeks ago) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives.
+- [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) ([v1.266.0](https://github.com/aliyun/terraform-provider-alicloud/releases/tag/v1.266.0), 2 days ago) - Terraform AliCloud provider
+- [simulot/immich-go](https://github.com/simulot/immich-go) ([v0.31.0](https://github.com/simulot/immich-go/releases/tag/v0.31.0), 4 weeks ago) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) ([v1.8.0](https://github.com/PagerDuty/go-pagerduty/releases/tag/v1.8.0), 2 years ago) - go client library for PagerDuty v2 API
 
 #### 🔨 My recent Pull Requests
