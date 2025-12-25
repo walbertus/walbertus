@@ -4,7 +4,7 @@
 
 - [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) - POC Repository for implementing RAG pipeline for Goto Financial Infra (2 weeks ago)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (4 weeks ago)
-- [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) - Personal learning project about creating ai agent (4 weeks ago)
+- [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) - Personal learning project about creating ai agent (1 month ago)
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API (6 months ago)
 - [walbertus/learning](https://github.com/walbertus/learning) -  (8 months ago)
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (10 months ago)
@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) ([v1.266.0](https://github.com/aliyun/terraform-provider-alicloud/releases/tag/v1.266.0), 5 days ago) - Terraform AliCloud provider
+- [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) ([v1.266.0](https://github.com/aliyun/terraform-provider-alicloud/releases/tag/v1.266.0), 6 days ago) - Terraform AliCloud provider
 - [simulot/immich-go](https://github.com/simulot/immich-go) ([v0.31.0](https://github.com/simulot/immich-go/releases/tag/v0.31.0), 1 month ago) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) ([v1.8.0](https://github.com/PagerDuty/go-pagerduty/releases/tag/v1.8.0), 2 years ago) - go client library for PagerDuty v2 API
 
@@ -21,7 +21,7 @@
 - [feat: add proposition quality check to filter useless proposition](https://github.com/gopaytech/rag-pipeline-poc/pull/7) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (2 weeks ago)
 - [feat: add proposition tool](https://github.com/gopaytech/rag-pipeline-poc/pull/6) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (2 weeks ago)
 - [fix: get the markdown content instead of raw for lark](https://github.com/gopaytech/rag-pipeline-poc/pull/5) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (2 weeks ago)
-- [feat: add lark integration for docs, wiki and space](https://github.com/gopaytech/rag-pipeline-poc/pull/4) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (2 weeks ago)
+- [feat: add lark integration for docs, wiki and space](https://github.com/gopaytech/rag-pipeline-poc/pull/4) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (3 weeks ago)
 - [feat: add MCP knowledge server](https://github.com/gopaytech/rag-pipeline-poc/pull/3) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (3 weeks ago)
 - [feat(evaluator): allow using ollama model alongside model garden](https://github.com/gopaytech/rag-pipeline-poc/pull/1) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (1 month ago)
 - [feat: add jellysweep](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/367) on [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) (1 month ago)
