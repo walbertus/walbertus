@@ -8,7 +8,6 @@
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API (6 months ago)
 - [walbertus/learning](https://github.com/walbertus/learning) -  (8 months ago)
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (10 months ago)
-- [aliyun/terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) - Terraform AliCloud provider (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
