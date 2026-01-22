@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [simulot/immich-go](https://github.com/simulot/immich-go) ([v0.31.0](https://github.com/simulot/immich-go/releases/tag/v0.31.0), 1 month ago) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives.
+- [simulot/immich-go](https://github.com/simulot/immich-go) ([v0.31.0](https://github.com/simulot/immich-go/releases/tag/v0.31.0), 2 months ago) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) ([v1.8.0](https://github.com/PagerDuty/go-pagerduty/releases/tag/v1.8.0), 2 years ago) - go client library for PagerDuty v2 API
 
 #### 🔨 My recent Pull Requests
