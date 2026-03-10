@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [walbertus/mezastar-helper](https://github.com/walbertus/mezastar-helper) -  (today)
 - [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) - POC Repository for implementing RAG pipeline for Goto Financial Infra (3 months ago)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (3 months ago)
 - [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) - Personal learning project about creating ai agent (3 months ago)
