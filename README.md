@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [walbertus/mezastar-helper](https://github.com/walbertus/mezastar-helper) -  (1 day ago)
+- [walbertus/mezastar-helper](https://github.com/walbertus/mezastar-helper) -  (2 days ago)
 - [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) - POC Repository for implementing RAG pipeline for Goto Financial Infra (3 months ago)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (3 months ago)
 - [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) - Personal learning project about creating ai agent (3 months ago)
@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-03](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-03), 4 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-03](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-03), 5 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) ([v1.8.0](https://github.com/PagerDuty/go-pagerduty/releases/tag/v1.8.0), 2 years ago) - go client library for PagerDuty v2 API
 
 #### 🔨 My recent Pull Requests
