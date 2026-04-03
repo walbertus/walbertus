@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [walbertus/mezastar-helper](https://github.com/walbertus/mezastar-helper) -  (1 week ago)
+- [walbertus/mezastar-helper](https://github.com/walbertus/mezastar-helper) -  (2 weeks ago)
 - [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) - POC Repository for implementing RAG pipeline for Goto Financial Infra (3 months ago)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (4 months ago)
 - [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) - Personal learning project about creating ai agent (4 months ago)
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API (9 months ago)
-- [walbertus/learning](https://github.com/walbertus/learning) -  (11 months ago)
+- [walbertus/learning](https://github.com/walbertus/learning) -  (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-04](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-04), 1 day ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-04](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-04), 2 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) ([v1.8.0](https://github.com/PagerDuty/go-pagerduty/releases/tag/v1.8.0), 2 years ago) - go client library for PagerDuty v2 API
 
 #### 🔨 My recent Pull Requests
@@ -19,7 +19,7 @@
 - [feat: add proposition quality check to filter useless proposition](https://github.com/gopaytech/rag-pipeline-poc/pull/7) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (3 months ago)
 - [feat: add proposition tool](https://github.com/gopaytech/rag-pipeline-poc/pull/6) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (3 months ago)
 - [fix: get the markdown content instead of raw for lark](https://github.com/gopaytech/rag-pipeline-poc/pull/5) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (3 months ago)
-- [feat: add lark integration for docs, wiki and space](https://github.com/gopaytech/rag-pipeline-poc/pull/4) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (3 months ago)
+- [feat: add lark integration for docs, wiki and space](https://github.com/gopaytech/rag-pipeline-poc/pull/4) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (4 months ago)
 - [feat: add MCP knowledge server](https://github.com/gopaytech/rag-pipeline-poc/pull/3) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (4 months ago)
 - [feat(evaluator): allow using ollama model alongside model garden](https://github.com/gopaytech/rag-pipeline-poc/pull/1) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (4 months ago)
 - [feat: add jellysweep](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/367) on [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) (4 months ago)
