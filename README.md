@@ -25,7 +25,7 @@
 - [feat: add jellysweep](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/367) on [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) (4 months ago)
 - [feat: update UI to show estimated deletion date instead of default](https://github.com/jon4hz/jellysweep/pull/205) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 months ago)
 - [feat: add incident analytics by escalation policy](https://github.com/PagerDuty/go-pagerduty/pull/557) on [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) (9 months ago)
-- [feat: add analytics responder](https://github.com/PagerDuty/go-pagerduty/pull/555) on [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) (9 months ago)
+- [feat: add analytics responder](https://github.com/PagerDuty/go-pagerduty/pull/555) on [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) (10 months ago)
 
 #### 📫 How to reach me
 
