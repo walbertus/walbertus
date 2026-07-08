@@ -3,17 +3,17 @@
 #### 👷 Check out what I'm currently working on
 
 - [walbertus/mezastar-helper](https://github.com/walbertus/mezastar-helper) -  (3 months ago)
-- [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) - POC Repository for implementing RAG pipeline for Goto Financial Infra (6 months ago)
+- [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) - POC Repository for implementing RAG pipeline for Goto Financial Infra (7 months ago)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (7 months ago)
 - [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) - Personal learning project about creating ai agent (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), 6 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add proposition quality check to filter useless proposition](https://github.com/gopaytech/rag-pipeline-poc/pull/7) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (6 months ago)
+- [feat: add proposition quality check to filter useless proposition](https://github.com/gopaytech/rag-pipeline-poc/pull/7) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (7 months ago)
 - [feat: add proposition tool](https://github.com/gopaytech/rag-pipeline-poc/pull/6) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (7 months ago)
 - [fix: get the markdown content instead of raw for lark](https://github.com/gopaytech/rag-pipeline-poc/pull/5) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (7 months ago)
 - [feat: add lark integration for docs, wiki and space](https://github.com/gopaytech/rag-pipeline-poc/pull/4) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (7 months ago)
