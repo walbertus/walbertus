@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), 2 weeks ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 
 #### 🔨 My recent Pull Requests
 
