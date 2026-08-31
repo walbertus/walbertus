@@ -10,14 +10,14 @@
 #### 🔭 Latest releases I've contributed to
 
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.0), 1 week ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-08](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-08), 4 weeks ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-08](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-08), 1 month ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 
 #### 🔨 My recent Pull Requests
 
 - [feat: add proposition quality check to filter useless proposition](https://github.com/gopaytech/rag-pipeline-poc/pull/7) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (8 months ago)
 - [feat: add proposition tool](https://github.com/gopaytech/rag-pipeline-poc/pull/6) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (8 months ago)
 - [fix: get the markdown content instead of raw for lark](https://github.com/gopaytech/rag-pipeline-poc/pull/5) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (8 months ago)
-- [feat: add lark integration for docs, wiki and space](https://github.com/gopaytech/rag-pipeline-poc/pull/4) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (8 months ago)
+- [feat: add lark integration for docs, wiki and space](https://github.com/gopaytech/rag-pipeline-poc/pull/4) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (9 months ago)
 - [feat: add MCP knowledge server](https://github.com/gopaytech/rag-pipeline-poc/pull/3) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (9 months ago)
 - [feat(evaluator): allow using ollama model alongside model garden](https://github.com/gopaytech/rag-pipeline-poc/pull/1) on [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) (9 months ago)
 - [feat: add jellysweep](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/367) on [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) (9 months ago)
