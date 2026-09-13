@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 weeks ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (3 weeks ago)
 - [gopaytech/rag-pipeline-poc](https://github.com/gopaytech/rag-pipeline-poc) - POC Repository for implementing RAG pipeline for Goto Financial Infra (9 months ago)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (9 months ago)
 - [walbertus/learning-ai-agent](https://github.com/walbertus/learning-ai-agent) - Personal learning project about creating ai agent (9 months ago)
@@ -10,7 +10,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-09](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-09), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.0), 2 weeks ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.0), 3 weeks ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 
 #### 🔨 My recent Pull Requests
 
