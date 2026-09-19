@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.1), 3 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.1), 4 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-09](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-09), 2 weeks ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 
 #### 🔨 My recent Pull Requests
